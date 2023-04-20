@@ -7,14 +7,14 @@
 
 
 ## Table Of Contents
-- [Description](#desc)
-- [Tasks Accomplished](#tasks)
-- [Deployment Links](#deploy)
-- [References](#ref)
+- [Description](#description)
+- [Tasks Accomplished](#tasks-completed)
+- [Deployment Links](#deployment-links)
+- [References](#references)
 <br>
 <br>
 
-### <u>*Description*</u> {#desc}
+### <u>*Description*</u>
 The started code is a web page with html and css file. There is some redundant code in css, HTML elements are non semantic and web page elements do not meet accessibility criteria. 
 
 
@@ -32,7 +32,7 @@ Refactored code by accomplishing following tasks -
 ### <u>*Deployment Links*</u> {#deploy}
 [Link of Deployed app ](https://anud22.github.io/module1Challenge/#online-reputation-management)
 
-### <u>*References*</u> {#ref}
+### References
 [msdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 <br>
 [w3 web docs](https://www.w3schools.com/)
