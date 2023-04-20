@@ -14,11 +14,11 @@
 <br>
 <br>
 
-### <u>*Description*</u>
+### Description
 The started code is a web page with html and css file. There is some redundant code in css, HTML elements are non semantic and web page elements do not meet accessibility criteria. 
 
 
-### <u>*Tasks Completed*</u> {#tasks}
+### Tasks Completed
 Refactored code by accomplishing following tasks -
 * Added semantic HTML elements
 * Added accessible alt attributes
@@ -29,7 +29,7 @@ Refactored code by accomplishing following tasks -
 * Updated heading attributes so that they fall in sequential order
 
 
-### <u>*Deployment Links*</u> {#deploy}
+### Deployment Links
 [Link of Deployed app ](https://anud22.github.io/module1Challenge/#online-reputation-management)
 
 ### References
